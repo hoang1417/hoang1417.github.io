@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[My Personal Blog - Henry Le]]></title>
   <link href="http://hoang1417.github.io/atom.xml" rel="self"/>
   <link href="http://hoang1417.github.io/"/>
-  <updated>2014-11-12T00:45:44+07:00</updated>
+  <updated>2014-11-12T00:50:44+07:00</updated>
   <id>http://hoang1417.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Hoang (Henry Le)]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -18,7 +18,7 @@
     <link href="http://hoang1417.github.io/blog/2014/11/12/hello-world/"/>
     <updated>2014-11-12T00:41:51+07:00</updated>
     <id>http://hoang1417.github.io/blog/2014/11/12/hello-world</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>I&rsquo;m happy to start learning Octopress. See you soon for my first article on this page. ^_^</p>
 ]]></content>
   </entry>
   
